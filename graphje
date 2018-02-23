@@ -1,0 +1,24 @@
+//        Vertex a = new Vertex('a', 0);
+//        Vertex b = new Vertex('b', 100000);
+//        Vertex c = new Vertex('c', 100000);
+//        Vertex d = new Vertex('d', 100000);
+//        Vertex e = new Vertex('e', 100000);
+//        Vertex f = new Vertex('f', 100000);
+//        Vertex g = new Vertex('g', 100000);
+//        Vertex h = new Vertex('h', 100000);
+//        Vertex i = new Vertex('i', 100000);
+//        
+//        Edge ab = new Edge(a, b, 4);
+//        Edge ah = new Edge(a, h, 8);
+//        Edge bc = new Edge(b, c, 8);
+//        Edge bh = new Edge(b, h, 11);
+//        Edge cd = new Edge(c, d, 7);
+//        Edge cf = new Edge(c, f, 4);
+//        Edge ci = new Edge(c, i, 2);
+//        Edge de = new Edge(d, e, 9);
+//        Edge df = new Edge(d, f, 14);
+//        Edge ef = new Edge(e, f, 10);
+//        Edge fg = new Edge(f, g, 2);
+//        Edge gh = new Edge(g, h, 1);
+//        Edge gi = new Edge(g, i, 6);
+//        Edge hi = new Edge(h, i, 7);
